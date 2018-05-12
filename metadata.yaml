@@ -1,0 +1,41 @@
+_repo: Mr.-Punch-in-the-Highlands_37882
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Keene, Charles
+    alias: Keene, Charles Samuel
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '37404'
+    url: http://www.gutenberg.org/2009/agents/37404
+covers:
+- cover_type: archival
+  image_path: 37882-h/images/i_cover.png
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2011-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Scotland -- Humor'
+- !lcsh 'English wit and humor'
+- !lcsh 'English wit and humor, Pictorial'
+title: Mr. Punch in the Highlands
+url: http://www.gutenberg.org/ebooks/37882
